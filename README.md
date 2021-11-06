@@ -1,2 +1,2 @@
 # ap-OTS-scheme
-split a whole beneficiaries applications pdf file into individual volunteer wise pdf
+split a beneficiary applications single pdf file into individual volunteer wise pdf
