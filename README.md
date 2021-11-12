@@ -1,4 +1,4 @@
-# ap-OTS-scheme
+# ap-OTS
 #The One Time Settlement,In a move that provides huge relief to those who have availed themselves of loans from the A.P. State Housing Corporation (APSHC) between 1983 and 2011
 
 the applications for the scheme are given in a single unsorted pdf file, to make it simpler the pdf file is splitted into mulitple files based on the volunteer ID
